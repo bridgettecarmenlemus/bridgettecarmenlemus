@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bridgettecarmenlemus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, TypeScript, C#, HTML, CSS
 - 📫 How to reach me bridgette.lemus.se@gmail.com
 
 <!---
