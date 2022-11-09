@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript, TypeScript, C#, HTML, CSS
 - 📫 How to reach me bridgette.lemus.se@gmail.com
 
-![image title](https://rushter.com/counter.svg)
+
 
 
 <!---
