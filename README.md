@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bridgette.lemus.se@gmail.com**
 
-- ⚡ Fun fact **I like to hike the volcanoes of Guatemala 🌋🇬🇹 **
+- ⚡ Fun fact **I like to hike the volcanoes of Guatemala 🌋🇬🇹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
