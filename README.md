@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bridgette!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bridgettecarmenlemus&label=Profile%20views&color=0e75b6&style=flat" alt="bridgettecarmenlemus" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, NodeJS, Express,**
+- 🌱 My current tech stack is **Javascript, React, NodeJS, Express,**
 
 - 📫 How to reach me **bridgette.lemus.se@gmail.com**
 
