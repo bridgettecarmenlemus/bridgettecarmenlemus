@@ -8,3 +8,4 @@
 - ⚡ Fun fact **I like to hike the volcanoes of Guatemala.**
 
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bridgettecarmenlemus&theme=github_dark&layout=compact)
