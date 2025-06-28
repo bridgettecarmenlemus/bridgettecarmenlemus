@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 📫 How to reach me **bridgette.lemus.se@gmail.com**
-
 - ⚡ Fun fact **I like to hike the volcanoes of Guatemala.**
 
 
